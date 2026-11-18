@@ -1,0 +1,11 @@
+id,what,value,ci_low,ci_high,met
+L1,"Haiku vs NIST, linear-weighted kappa, 10,298 pairs",0.3446,0.2954,0.3939,False
+-,"Haiku vs NIST, kappa for grade 2 or more",0.5513,,,
+-,"Haiku vs NIST, linear-weighted kappa, 2019",0.3668,,,
+-,"Haiku vs NIST, linear-weighted kappa, 2020",0.3093,,,
+L2,"Opus minus Haiku kappa, 1,000-pair sample, reweighted",0.0366,0.0121,0.0618,True
+-,"Opus vs NIST, linear-weighted kappa, sample reweighted",0.3472,,,
+-,"Haiku vs NIST, linear-weighted kappa, sample reweighted",0.3107,,,
+L3,"Kendall tau, 11 systems, NIST vs Haiku labels on the pool",0.8909,,,True
+L4,"gain of CE>Haiku-20 over CE, Haiku labels minus NIST labels",0.0532,0.0385,0.0697,True
+post hoc,same for CE>Opus-20 (a ranker not built on Haiku),0.0082,-0.0073,0.0237,

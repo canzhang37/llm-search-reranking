@@ -1,0 +1,3 @@
+Haiku-100 minus CE on BM25 top 100, NDCG@10: -0.0186 (95% CI -0.0426 to 0.0049, p = 0.1315, wins 39, losses 52)
+passages Haiku grades 3 in the BM25 top 100: median 2, queries with more than 10: 5 of 97
+queries whose Haiku-100 top 10 is one grade throughout: 23

@@ -1,0 +1,6 @@
+id,comparison,mean_diff,ci_low,ci_high,p,wins,losses,met,p_holm
+P1,CE minus BM25,0.2468,0.2024,0.2947,0.0001,86,9,True,0.0005
+P2,Haiku-100 minus CE,-0.0559,-0.0844,-0.0278,0.0003,34,59,False,0.0009
+P3,CE>Haiku-20 minus CE,0.0272,0.0129,0.0419,0.0002,53,22,True,0.0008
+P4,CE>Opus-20 minus CE,0.0295,0.0131,0.0455,0.0005,56,18,True,0.001
+P5,CE>Opus-20 minus CE>Haiku-20,0.0023,-0.0136,0.0195,0.788,36,35,False,0.788

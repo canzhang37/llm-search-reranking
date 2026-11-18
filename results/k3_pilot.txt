@@ -1,0 +1,6 @@
+pilot queries ['11096', '20455']: ['acura integra timing belt replacement cost', 'ar glasses definition']
+haiku: status {'ok': 40}, grades 0-3 [4, 25, 11, 0], mean input 526 and output 10 tokens, $0.029 per 1,000 requests at batch prices
+opus: status {'ok': 40}, grades 0-3 [9, 24, 7, 0], mean input 526 and output 12 tokens, $1.174 per 1,000 requests at batch prices
+main run haiku: 15144 pairs, projected $0.44
+main run opus: 2623 pairs, projected $3.08
+projected total $3.52 against the $30 cap: within

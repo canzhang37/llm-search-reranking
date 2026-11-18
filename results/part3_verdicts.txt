@@ -1,0 +1,3 @@
+O1 (interleaving at most 1/5 of A/B sessions, every clear comparison, all users): False
+O2 (interleaving sign matches NDCG, clear comparisons, perfect and navigational): True
+power check at computed sizes within 0.75-0.85: False (range 0.611-0.919)

@@ -1,0 +1,5 @@
+cross-encoder cross-encoder/ms-marco-MiniLM-L6-v2
+TREC DL 2019 NDCG@10 here: 0.7358
+published on the model card: 0.743
+difference -0.0072 (K1 passes if within 0.02): pass
+93066 pairs scored on CPU in 598 s
